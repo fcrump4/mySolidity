@@ -1,3 +1,3 @@
 # mySolidity
 
-Branch for notes
+Branch for notetaking
